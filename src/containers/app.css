@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Lightyour Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Lightyour Regular'), url('Lightyour.woff') format('woff');
+  
+}
+
+h1 {
+  font-family: 'Lightyour Regular';
+  font-weight: 300;
+  color: #0dc9c7;
+}
